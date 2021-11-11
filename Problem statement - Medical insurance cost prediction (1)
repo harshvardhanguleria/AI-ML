@@ -1,0 +1,11 @@
+Problem statement-
+Build a multivariate Linear regression model to predict the medical insurance cost(charges) based on patient information.
+1. Perform exploratory data analysis on the dataset
+2. Visualize data elements
+3. Derive preliminary observations about relationship betwee the variables (independent, dependent)
+4. Perform feature engineering
+ - Explore possibility of deriving new features 
+ - Transform existing features using techniques like Min-max scaling, One hot encoding(dummy variable creation)
+5. Perform feature selection using RFE, VIF, iterative Linear regression model summary (p-value of features coefficients)
+6. Perform Residual analysis using the training data
+7. Build the final regression equation.
